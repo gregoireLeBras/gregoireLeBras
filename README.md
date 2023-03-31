@@ -20,5 +20,4 @@
 
 ---
 
-[CodeWars](https://www.codewars.com/users/Genoxis)
-[LeetCode](https://leetcode.com/Genoxis/)
+[CodeWars](https://www.codewars.com/users/Genoxis) | [LeetCode](https://leetcode.com/Genoxis/)
