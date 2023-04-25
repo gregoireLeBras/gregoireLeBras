@@ -9,10 +9,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gregoireLeBras&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
-
-[CodeWars](https://www.codewars.com/users/Genoxis) | [LeetCode](https://leetcode.com/Genoxis/)
