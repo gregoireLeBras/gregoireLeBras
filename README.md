@@ -16,4 +16,4 @@
 
 ---
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=gregoireLeBras_icons=true&theme=dark)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=gregoireLeBras)
